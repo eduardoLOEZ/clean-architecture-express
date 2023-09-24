@@ -1,0 +1,134 @@
+[
+  {
+    "_id": "640fedebf3eb44e1bc29ef69",
+    "name": "1. Spider-Man",
+    "skills": [
+      "Fuerza sobrehumana, rapidez, grandes reflejos y agilidad, coordinación y balance.",
+      "Puede trepar y adherirse a superficies sólidas.",
+      "Curación acelerada.",
+      "Su intelecto es el de un genio."
+    ],
+    "img": "https://cdn.superaficionados.com/imagenes/1-personajes-de-marvel-spider-man-cke.jpg"
+  },
+  {
+    "_id": "640fedebf3eb44e1bc29ef6a",
+    "name": "2. Iron Man",
+    "skills": [
+      "Intelecto superior",
+      "Científico e ingeniero",
+      "Su traje cuenta con fuerza sobrehumana, durabilidad, agilidad y reflejos",
+      "Vuelo supersónico"
+    ],
+    "img": "https://cdn.superaficionados.com/imagenes/2-personajes-de-marvel-iron-ma-cke.jpg"
+  },
+  {
+    "_id": "640fedebf3eb44e1bc29ef6b",
+    "name": "3. Capitán América",
+    "skills": [
+      "Fuerza mejorada, con resistencia, agilidad y reflejos especiales otorgados por el suero de supersoldado",
+      "Artista marcial destacado con excelencia en combate cuerpo a cuerpo",
+      "Curación acelerada",
+      "Envejecimiento retardado"
+    ],
+    "img": "https://cdn.superaficionados.com/imagenes/3-personajes-de-marvel-capitan-america-cke.jpg"
+  },
+  {
+    "_id": "640fedebf3eb44e1bc29ef6c",
+    "name": "4. Doctor Strange",
+    "skills": [
+      "Maestro de la hechicería",
+      "Uso de artefactos mágicos, como la Capa de Levitación y el ojo de Agamotto",
+      "Intelecto de genio",
+      "Artista marcial"
+    ],
+    "img": "https://cdn.superaficionados.com/imagenes/5-personajes-de-marvel-doctor-strange-cke.jpg"
+  },
+  {
+    "_id": "640fedebf3eb44e1bc29ef6d",
+    "name": "5. Black Widow",
+    "skills": [
+      "Espía y táctica experta",
+      "Artista marcial entrenada y experta en el combate cuerpo a cuerpo",
+      "Sistema inmune mejorado y envejecimiento retardado",
+      "Tiradora experta y maneja con gran excelencia otras herramientas de batalla"
+    ],
+    "img": "https://cdn.superaficionados.com/imagenes/6-personajes-de-marvel-black-widow-cke.jpg"
+  },
+  {
+    "_id": "640fedebf3eb44e1bc29ef6e",
+    "name": "6. Doctor Doom",
+    "skills": [
+      "Intelecto de genio",
+      "Maestro de la hechicería y las artes místicas",
+      "Transferencia mental y tecnopatía",
+      "Experto en combate cuerpo a cuerpo, artes marciales y como espadachín"
+    ],
+    "img": "https://cdn.superaficionados.com/imagenes/7-personajes-de-marvel-doctor-doom-cke.jpg"
+  },
+  {
+    "_id": "640fedebf3eb44e1bc29ef6f",
+    "name": "7. Profesor X",
+    "skills": [
+      "Intelecto de genio",
+      "Poderes psíquicos, incluyendo ESP, telepatía y manipulación mental",
+      "Telekinesis"
+    ],
+    "img": "https://cdn.superaficionados.com/imagenes/8-personajes-de-marvel-profesor-x-cke.jpg"
+  },
+  {
+    "_id": "640fedebf3eb44e1bc29ef70",
+    "name": "8. Kitty Pryde",
+    "skills": [
+      "Intangibilidad",
+      "Intelecto de prodigio",
+      "Talentosa artista marcial"
+    ],
+    "img": "https://cdn.superaficionados.com/imagenes/9-personajes-de-marvel-kitty-pryde-cke.jpg"
+  },
+  {
+    "_id": "640fedebf3eb44e1bc29ef71",
+    "name": "9. Storm",
+    "skills": [
+      "Experta en táctica y el arte de robar",
+      "Manipula el clima en un área muy amplia",
+      "Controla la presión atmosférica",
+      "Modifica la temperatura"
+    ],
+    "img": "https://cdn.superaficionados.com/imagenes/10-personajes-de-marvel-storm.jpg"
+  },
+  {
+    "_id": "640fedebf3eb44e1bc29ef72",
+    "name": "10. Thanos",
+    "skills": [
+      "Fuerza, rapidez, resistencia y agilidad sobrehumana",
+      "Fisiología sobrehumana de los Eternos",
+      "Experto en el combate mano a mano",
+      "Táctico genio"
+    ],
+    "img": "https://cdn.superaficionados.com/imagenes/11-personajes-de-marvel-thanos-cke.jpg"
+  },
+  {
+    "_id": "640fedebf3eb44e1bc29ef73",
+    "name": "11. Hulk",
+    "skills": [
+      "Fuerza increíble y resistencia sobrehumana",
+      "Regeneración celular rápida",
+      "Puede aumentar su fuerza con la ira",
+      "Resistencia a la radiación gamma"
+    ],
+    "img": "https://cdn.superaficionados.com/imagenes/12-personajes-de-marvel-hulk-cke.jpg"
+  },
+  
+  {
+    "_id": "640fedebf3eb44e1bc29ef74",
+    "name": "12. Thor",
+    "skills": [
+      "Fuerza sobrehumana",
+      "Control sobre el clima y los elementos",
+      "Inmortalidad",
+      "Puede volar con su martillo Mjolnir"
+    ],
+    "img": "https://cdn.superaficionados.com/imagenes/13-personajes-de-marvel-thor-cke.jpg"
+  }
+  
+]
